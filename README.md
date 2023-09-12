@@ -2,7 +2,7 @@
 
 README for **CPE 322-A** for _Assignment 0_ including headings, text, lists, images, quotes, code, and extras
 
-## Lists for Assignment 0 using a Heading Level 2
+## Lists for Assignment 0 (Heading Level 2)
 
 Bullet points:
 - I 
@@ -31,8 +31,11 @@ Mixed Nested Lists:
 
 
 ### Some Images (Heading Level 3)
+![image1](https://github.com/ShawnAviles/cpe322/assets/43704084/928f5fcb-12fa-4244-be59-7c052f8992cd)
 
 Image 1
+
+![image2](https://github.com/ShawnAviles/cpe322/assets/43704084/f30578d7-64ed-4f1f-84b6-16534b900ded)
 
 Image 2
 
@@ -42,8 +45,15 @@ Image 2
 
 > "This is a multi-line quote with lots of words
 This is a multi-line quote with lots of words
-This is a multi-line quote with lots of words
 This is a multi-line quote with lots of words" Another-Famous Person
+
+> This is a multi-line quote with lots of words
+> This is a multi-line quote with lots of words
+> This is a multi-line quote with lots of words
+
+> Nested Quote 1
+> > Nested Quote 2
+> > > Nested Quote 3
 
 
 ##### Code Snippets (Heading Level 5)
@@ -66,6 +76,7 @@ Inline code snippet `for some inline variables names etc.` can represented like 
 
 ---
 ###### Extas - Gif (Heading Level 6)
+![Rotating_earth_(large)](https://github.com/ShawnAviles/cpe322/assets/43704084/166bcc00-a03f-49f8-a9a2-788e2a2f835a)
 
 Gif 1
 
@@ -82,11 +93,12 @@ Gif 1
         Cell 1
       </td>
       <td>
-		Another Cell
+	Another Cell
       </td>
     </tr>
   </tbody>
 </table>
+
 Table
 
 
