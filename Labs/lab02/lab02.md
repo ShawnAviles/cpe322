@@ -1,6 +1,6 @@
 # Lab 02 
 
-Week 2 Lab. Some commands reveal some sensitive information so I will be showing some sample ourputs or altered outputs where appropriate
+Week 2 Lab. Some commands reveal sensitive information so I will be showing sample/altered outputs where appropriate.
 
 ## Command Line
 
