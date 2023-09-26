@@ -1,6 +1,6 @@
 # Lab 02 
 
-Week 2 
+Week 2 Lab. Some commands reveal some sensitive information so I will be showing some sample ourputs or altered outputs where appropriate
 
 ## Command Line
 
@@ -30,10 +30,6 @@ Week 2
   /Users/shawn/Documents/cpe322/Labs/lab02
   ```
 
-
-Prior commands reveal some sensitive data so I will just be having excerpts and small sample outputs
-
-
 - `git clone https://github.com/kevinwlu/iot.git`
   - Clones the designated GitHub repository to the local machine, facilitating offline access and modification
 
@@ -62,7 +58,7 @@ Prior commands reveal some sensitive data so I will just be having excerpts and 
 	...
 	```
 
-Screenshot for the following commands.
+Screenshot for the following file commands.
 ![image](./fileCommands.png)
 
 
