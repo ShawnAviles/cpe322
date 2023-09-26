@@ -52,9 +52,9 @@ Week 2 Lab. Some commands reveal some sensitive information so I will be showing
 - `df`
   - An abbreviation for "disk free," it displays the utilization and availability of disk space on the system's file systems. Sample output:
 	```
-	Filesystem			512-blocks      Used  		Available 		Capacity 	iused      	ifree 			%iused  	Mounted on
+	Filesystem		512-blocks      Used  		Available 	Capacity 	iused      	ifree 		%iused  	Mounted on
 	/dev/disk3s1s1		1942700360  	23100744 	1460285232     	2%  		355382		4293063372    	0%   		/
-	devfs				408       		408         0   			100%     	706        	0  				100%   		/dev
+	devfs			408       	408		0   		100%     	706        	0  		100%   		/dev
 	...
 	```
 
