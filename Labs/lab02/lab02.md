@@ -1,4 +1,4 @@
-# Lab 02 
+# CPE 322 - Lab 2 
 
 Week 2 Lab. Some commands reveal some sensitive information so I will be showing some sample ourputs or altered outputs where appropriate
 
