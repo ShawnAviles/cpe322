@@ -1,2 +1,5 @@
 .DS_Store
 .env
+
+# Removed for Lab 5
+paho.mqtt.python/
