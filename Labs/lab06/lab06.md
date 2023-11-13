@@ -1,4 +1,4 @@
-# CPE 322 - Lab 5
+# CPE 322 - Lab 6
 
 Lab provides students with experience using Node.js and Pystache
 
