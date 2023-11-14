@@ -2,6 +2,7 @@
 
 Lab provides students with experience using ThingSpeak and Google Sheets APIs
 
+
 ## Install Python packages
 
 I needed to downgrade my python version to 3.10 so that all the packages were compatible:
@@ -36,42 +37,41 @@ xgc
 xlogo
 xman
 ```
-<img width="417" alt="Screenshot 2023-11-14 at 12 11 51 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/f37a0410-0e45-46c0-af37-2e5215c17499">
+  <img width="417" alt="Screenshot 2023-11-14 at 12 11 51 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/f37a0410-0e45-46c0-af37-2e5215c17499">
 
+- ico
 
-ico
+  <img width="605" alt="Screenshot 2023-11-14 at 12 09 12 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/6a1e5c24-83de-4ad5-b247-ede456c65818">
 
-<img width="605" alt="Screenshot 2023-11-14 at 12 09 12 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/6a1e5c24-83de-4ad5-b247-ede456c65818">
+- oclock
 
-oclock
+  <img width="128" alt="Screenshot 2023-11-14 at 12 09 36 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/b85fc21d-0260-425b-a825-8a171af4e4ae">
 
-<img width="128" alt="Screenshot 2023-11-14 at 12 09 36 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/b85fc21d-0260-425b-a825-8a171af4e4ae">
+- xcalc:
 
-xcalc:
+  <img width="229" alt="Screenshot 2023-11-14 at 12 09 51 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/592cb5b6-69d0-43c6-ac61-529ed9acc78e">
 
-<img width="229" alt="Screenshot 2023-11-14 at 12 09 51 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/592cb5b6-69d0-43c6-ac61-529ed9acc78e">
+- xclock:
 
-xclock:
+  <img width="170" alt="Screenshot 2023-11-14 at 12 10 10 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/2ba99478-2ffb-41ef-a2bd-db90eb0a161c">
 
-<img width="170" alt="Screenshot 2023-11-14 at 12 10 10 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/2ba99478-2ffb-41ef-a2bd-db90eb0a161c">
+- xeyes:
 
-xeyes:
+  <img width="161" alt="Screenshot 2023-11-14 at 12 10 34 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/8c27bdbd-2b08-4637-b5aa-61061a7e1505">
 
-<img width="161" alt="Screenshot 2023-11-14 at 12 10 34 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/8c27bdbd-2b08-4637-b5aa-61061a7e1505">
+- xgc
 
-xgc
+  <img width="888" alt="Screenshot 2023-11-14 at 12 10 49 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/d884919c-fbbf-4739-8e62-5f511965a32e">
 
-<img width="888" alt="Screenshot 2023-11-14 at 12 10 49 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/d884919c-fbbf-4739-8e62-5f511965a32e">
+- xlogo
 
-xlogo
+  <img width="105" alt="Screenshot 2023-11-14 at 12 11 03 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/6eb1b7a1-fb07-4a4e-867c-e3ff217021d6">
 
-<img width="105" alt="Screenshot 2023-11-14 at 12 11 03 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/6eb1b7a1-fb07-4a4e-867c-e3ff217021d6">
+- xman
 
+  <img width="129" alt="Screenshot 2023-11-14 at 12 11 14 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/3853070a-4429-4709-8bd1-0a499a271c89">
+  <img width="786" alt="Screenshot 2023-11-14 at 12 11 29 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/f792eef8-e2ab-468e-9c40-eda89f323d41">
 
-xman
-
-<img width="129" alt="Screenshot 2023-11-14 at 12 11 14 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/3853070a-4429-4709-8bd1-0a499a271c89">
-<img width="786" alt="Screenshot 2023-11-14 at 12 11 29 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/f792eef8-e2ab-468e-9c40-eda89f323d41">
 
 ## Numpy Array
 
@@ -80,6 +80,87 @@ xman
 ![Screenshot 2023-11-14 at 12 21 21 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/a426a7d0-e8a0-462c-8264-4547147b2f1d)
 
 
+# Review and Run Python Code
+- `python3 pyplot_simple.py`
+
+  <img width="646" alt="Screenshot 2023-11-14 at 12 44 04 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/5288615f-cf80-4bb3-b246-8e096ee15fd6">
+
+- `python3 simple_plot.py`
+
+  <img width="642" alt="Screenshot 2023-11-14 at 12 45 54 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/105a0cbb-84e6-401f-8b9c-7d712cf6ddbc">
+
+- `python3 pyplot_formatstr.py`
+
+  <img width="642" alt="Screenshot 2023-11-14 at 12 45 06 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/32126276-997d-4c1d-89a0-7c0c44d1c49e">
+
+- `python3 ticklabels_demo_rotation.py`
+
+  <img width="642" alt="Screenshot 2023-11-14 at 12 46 33 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/9107e956-40c9-4212-b2e9-d6267065b6e7">
+
+- `python3 pyplot_three.py`
+
+  <img width="645" alt="Screenshot 2023-11-14 at 12 46 57 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/cbd67859-835a-4423-85be-e04852dae604">
+
+- `python3 pyplot_two_subplots.py`
+
+  <img width="646" alt="Screenshot 2023-11-14 at 12 47 23 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/8f92179a-399c-43ff-b3f9-029fe65401b1">
+
+- `python3 pyplot_scales.py` needed to create new Python Environment to downgrade to version 3.8 and downgrade matplotlub to version 3.3 to run it. There is an [open issue](https://github.com/DeepSpectrum/DeepSpectrum/issues/36) for this error as well
+
+  <img width="645" alt="Screenshot 2023-11-14 at 1 07 37 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/8b84d149-e142-470a-bfb4-d74cb54c173e">
+
+- `python3 pyplot_annotate.py`
+
+  <img width="650" alt="Screenshot 2023-11-14 at 1 05 10 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/267e82e5-1ffa-4986-bc21-cb177df35f57">
+
+- `python3 major_minor_demo1.py`
+
+  <img width="643" alt="Screenshot 2023-11-14 at 1 06 04 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/13316b86-5290-411e-a5e9-6b7e376ea08c">
+  
+- `python3 legend_demo.py`
+
+  <img width="644" alt="Screenshot 2023-11-14 at 1 06 27 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/85790acc-209b-4a7f-bc2c-24fbcbb04965">
+
+
+
+## Histograms, Box Plots, Regression, and Interpolation Examples
+- `python3 scatter_demo.py`
+
+  <img width="641" alt="Screenshot 2023-11-14 at 1 09 48 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/cba67b37-3dea-480e-b56d-96e7c559c9d5">
+
+- `python3 histogram_demo_features.py`
+  
+  <img width="645" alt="Screenshot 2023-11-14 at 1 11 49 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/200439f5-d067-4a13-87fa-f97c76f435a5">
+
+- `python3 pyplot_text.py`
+
+  <img width="645" alt="Screenshot 2023-11-14 at 1 12 10 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/2ff6b1b0-6eee-4935-9de4-4fb5266939c7">
+
+- `python3 histogram_demo_extended.py`
+  
+  <img width="1280" alt="Screenshot 2023-11-14 at 1 13 49 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/4bd90d65-8e55-4657-9bf3-b2f115e072ae">
+
+  <img width="1286" alt="Screenshot 2023-11-14 at 1 14 15 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/95185530-5adf-4292-909b-a9ec3b043c0c">
+
+  <img width="1282" alt="Screenshot 2023-11-14 at 1 14 57 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/31003077-cc09-447b-8183-18f1bde8fd7d">
+
+  <img width="646" alt="Screenshot 2023-11-14 at 1 15 12 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/0957bbe7-1ff8-4d44-b4ff-636fe55e6056">
+
+- `python3 boxplot_demo.py`
+  
+  <img width="1511" alt="Screenshot 2023-11-14 at 1 16 32 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/cc6621b1-08e6-45d4-8949-853745bd268a">
+  
+  <img width="1507" alt="Screenshot 2023-11-14 at 1 17 19 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/467abe47-e121-4d75-96f3-75befe71c0f8">
+
+  <img width="649" alt="Screenshot 2023-11-14 at 1 17 34 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/60516643-12b6-42bc-8728-4d343b63f91a">
+
+- `python3 linreg.py`
+
+  <img width="644" alt="Screenshot 2023-11-14 at 1 19 50 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/3613a4f0-c080-4715-89f6-b56890e7687e">
+
+- `python3 interpolation.py`
+
+  <img width="642" alt="Screenshot 2023-11-14 at 1 20 09 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/24b366fe-77a1-48c9-b985-0a6abc78f21c">
 
 
 ## Save the Lab 7 Google sheet in CSV format
