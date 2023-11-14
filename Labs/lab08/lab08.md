@@ -164,8 +164,25 @@ xman
 
 
 ## Classification, cross-validation (CV), and support-vector machine (SVM)
+- `python3 plot_lda.py`
 
+  <img width="965" alt="Screenshot 2023-11-14 at 1 50 36 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/fa820c4a-4893-46cd-a8c2-e20f35800c1d">
 
+- `python3 plot_lda_qda.py` - tried using different python verison and matlab version but got resulted in this issue each time. I had to use python version 3.8 and
+  
+  ![Screenshot 2023-11-14 at 1 55 25 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/5a71b5cc-55f5-4967-8db3-4ee4d5f7ab5a)
+
+- `python3 plot_cv_predict.py`
+
+  <img width="643" alt="Screenshot 2023-11-14 at 1 51 02 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/f246ffef-7855-495e-b493-bb8c4ea37a67">
+
+- `python3 plot_cv_diabetes.py`
+
+  <img width="641" alt="Screenshot 2023-11-14 at 1 51 29 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/ab602b85-5156-42b9-a974-5143b949a5b8">
+
+- `python3 traffic.py`
+  
+  ![Screenshot 2023-11-14 at 1 50 02 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/a04dd719-7fdd-4870-9379-ca586ef2d68d)
 
 ## Keras and TensorFlow
 - `python3 keras_diabetes.py`
