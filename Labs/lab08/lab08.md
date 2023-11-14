@@ -212,6 +212,7 @@ cp titanic_2.py ~/demo
 cd ~/demo
 ```
 - `python3 titanic_1.py`
+  
   ![Screenshot 2023-11-14 at 1 42 42 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/1a5b3851-9002-4f58-b43c-97b08b0a8ede)
 
 - `python3 titanic_2.py`
@@ -225,9 +226,12 @@ cd ~/demo
 
 
 ## Copy ~/iot/lesson8/plt_final.py and plt_cv2.py to ~/demo
+- ![Screenshot 2023-11-14 at 2 02 38 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/97317686-7a30-439d-80f1-f71cfca9be47)
+- ![Screenshot 2023-11-14 at 2 02 53 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/a470300d-8e5a-47b7-b192-fc5b41a43b4c)
 
 
 ## Edit plt_final.py and plt_cv2.py to read the CSV file with customized plot titles
-
+- Updated date and added my name :-) 
 
 ## Run plt_final.py and plt_cv2.py
+
