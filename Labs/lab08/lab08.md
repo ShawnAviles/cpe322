@@ -168,6 +168,21 @@ xman
 
 
 ## Keras and TensorFlow
+- `python3 keras_diabetes.py`
+
+  ![Screenshot 2023-11-14 at 1 45 30 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/fd87d769-225c-434b-91fc-e18867522600)
+
+  ...
+
+  ![Screenshot 2023-11-14 at 1 45 53 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/b509d3b0-65ea-4348-bacf-e50be7095c10)
+
+- `keras_first_network.py`
+  
+  ![Screenshot 2023-11-14 at 1 46 32 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/3ba78521-c3b4-4d13-b004-341e9b5e487a)
+
+  ...
+
+  ![Screenshot 2023-11-14 at 1 46 50 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/a3c0364f-a403-45cf-88ac-e71358d2d7b9)
 
 
 
