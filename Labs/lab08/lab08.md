@@ -234,4 +234,14 @@ cd ~/demo
 - Updated date and added my name :-) 
 
 ## Run plt_final.py and plt_cv2.py
+- `python3 plt_final.py` - my data sample for the previous lab was very short hence why my first time series plot is condensed.
+  
+  <img width="1286" alt="Screenshot 2023-11-14 at 2 13 05 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/7865bebf-31a8-4094-b32d-c778b0f6789d">
 
+  <img width="1282" alt="Screenshot 2023-11-14 at 2 12 44 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/3ba944d1-adc3-4035-a362-57e922f13acd">
+
+  <img width="1282" alt="Screenshot 2023-11-14 at 2 12 23 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/80d2fb2d-c057-4409-a4ef-61e775e67337">
+
+- `python3 plt_cv2`
+  
+  <img width="644" alt="Screenshot 2023-11-14 at 2 08 20 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/9dc717e3-eae1-47e4-bd91-c27185e796f2">
