@@ -163,6 +163,30 @@ xman
   <img width="642" alt="Screenshot 2023-11-14 at 1 20 09 AM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/24b366fe-77a1-48c9-b985-0a6abc78f21c">
 
 
+## Classification, cross-validation (CV), and support-vector machine (SVM)
+
+
+
+## Keras and TensorFlow
+
+
+
+## Titanic example
+```
+cp train.csv ~/demo
+cp test.csv ~/demo
+cp titanic_1.py ~/demo
+cp titanic_2.py ~/demo
+cd ~/demo
+```
+- `python3 titanic_1.py`
+  ![Screenshot 2023-11-14 at 1 42 42 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/1a5b3851-9002-4f58-b43c-97b08b0a8ede)
+
+- `python3 titanic_2.py`
+  ![Screenshot 2023-11-14 at 1 44 02 AM](https://github.com/ShawnAviles/cpe322/assets/43704084/ff1cce5d-4f9e-432f-98a9-8aff5e99efbc)
+
+
+
 ## Save the Lab 7 Google sheet in CSV format
 
 <img width="500" alt="Screenshot 2023-11-13 at 3 12 26 PM" src="https://github.com/ShawnAviles/cpe322/assets/43704084/475af14e-77e9-4fbb-bebf-19f1b80c4506">
